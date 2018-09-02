@@ -1,0 +1,6 @@
+com/arpitjava/springbootbatch/step/Writer.class
+com/arpitjava/springbootbatch/SpringBootBatchApplication.class
+com/arpitjava/springbootbatch/step/Processor.class
+com/arpitjava/springbootbatch/config/BatchConfig.class
+com/arpitjava/springbootbatch/controller/JobLauncherController.class
+com/arpitjava/springbootbatch/step/Reader.class

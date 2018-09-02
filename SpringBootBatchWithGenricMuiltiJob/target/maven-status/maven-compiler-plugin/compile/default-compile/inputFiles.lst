@@ -1,0 +1,6 @@
+/home/arpit-java/git/SpringBootBatch/src/main/java/com/arpitjava/springbootbatch/config/BatchConfig.java
+/home/arpit-java/git/SpringBootBatch/src/main/java/com/arpitjava/springbootbatch/step/Writer.java
+/home/arpit-java/git/SpringBootBatch/src/main/java/com/arpitjava/springbootbatch/controller/JobLauncherController.java
+/home/arpit-java/git/SpringBootBatch/src/main/java/com/arpitjava/springbootbatch/SpringBootBatchApplication.java
+/home/arpit-java/git/SpringBootBatch/src/main/java/com/arpitjava/springbootbatch/step/Processor.java
+/home/arpit-java/git/SpringBootBatch/src/main/java/com/arpitjava/springbootbatch/step/Reader.java

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: arpit-java
+Build-Jdk: 10.0.2
+Implementation-Title: SpringBatchRestartableFunction
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.javasampleapproach
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/springbatch-
+ restartable/
+Created-By: Maven Integration for Eclipse
+

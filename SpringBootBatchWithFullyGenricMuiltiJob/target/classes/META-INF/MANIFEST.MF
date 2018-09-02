@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: arpit-java
+Build-Jdk: 10.0.2
+Implementation-Title: SpringBootBatch
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.arpitjava
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootBatch
+Created-By: Maven Integration for Eclipse
+
